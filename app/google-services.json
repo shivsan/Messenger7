@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951286021976",
+    "firebase_url": "https://shivku-messenger.firebaseio.com",
+    "project_id": "shivku-messenger",
+    "storage_bucket": "shivku-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951286021976:android:e03f4e052c0173b4d9ef2d",
+        "android_client_info": {
+          "package_name": "com.shivku.messenger7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951286021976-mbsfppfvjqiar71fuggo3rnvm683fnju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtasrTVzZYA4ruB9SK1-AdU_BHe5Q0G0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951286021976-mbsfppfvjqiar71fuggo3rnvm683fnju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
